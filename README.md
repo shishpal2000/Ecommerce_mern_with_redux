@@ -6,7 +6,7 @@ Ecommerce Website
 
 Technologies: ReactJs,redux, JavaScript, Express Js,MongoDb,Bootstrap,HTML/CSS.
 
-● Users can buy products, add items to cart, rate products and pay through credit card using paypal API.
+● Users can buy products, add items to cart, rate products and pay through credit card using stripe and cash on delivery.
 
 ● Admin can add, delete and update’s details.
 
@@ -17,55 +17,51 @@ Technologies: ReactJs,redux, JavaScript, Express Js,MongoDb,Bootstrap,HTML/CSS.
 # Main page
 This is the home page of e-commerce. It shows a list of products.
 
-![frontimage](https://user-images.githubusercontent.com/107112448/186491050-99431c7d-2189-417b-a5bc-7abddafd65a4.png)
+![home_screen](https://github.com/shishpal2000/snake-game/assets/107112448/16d24a81-9d79-40c0-8a01-41c6b6519fa9)
+
+#pagination is apply in the product home screen.
+
+![paggination screen](https://github.com/shishpal2000/snake-game/assets/107112448/3de17742-ef2f-4647-9d90-639377936f4e)
 
 # Filter Products
 User can search the products with price,rating,categories also apply some filter to  price low to high and high to low.
 
-![filter](https://user-images.githubusercontent.com/107112448/186498679-b9b1bf49-76e2-438b-a4ce-055c9425468f.png)
+![fillter_product](https://github.com/shishpal2000/snake-game/assets/107112448/6ed5a03b-434a-4697-bb2a-099383ae7105)
 
 
 # Product Details
 When the user clicks on a product there should a page to show details about that product.
-![productdetailpage](https://user-images.githubusercontent.com/107112448/186490397-9f7b70bf-f88c-4c8b-9008-484d184de4ff.png)
-![productdetailpage1](https://user-images.githubusercontent.com/107112448/186490409-1274a543-c281-4ab7-b744-4155c7a14d9f.png)
+![product_screen](https://github.com/shishpal2000/snake-game/assets/107112448/d01f150b-95c5-4bb5-8d64-384e20286904)
 
 #  Shopping Cart Screen
 Shopping Cart is the heart of any e-commerce website. i am focus on creating a user-friendly shopping cart using React.
-![addtocart](https://user-images.githubusercontent.com/107112448/186492040-fae2899f-9b08-421f-b717-436cfa0dfe23.png)
+![card_screen](https://github.com/shishpal2000/snake-game/assets/107112448/450fdbe9-b73c-4925-9ae1-5d171710176e)
 
-# Sign In User
-User need to register before redirecting to the checkout page.
-![loginpage](https://user-images.githubusercontent.com/107112448/186492367-fa499931-5dca-4e17-917e-781908f94f49.png)
+# Sign In And Login User
+User need to login before redirecting to the checkout or home page.
+![login_screen](https://github.com/shishpal2000/snake-game/assets/107112448/71443574-df57-4a70-8571-bc3baaf566d1)
 
 # Manage Products
 Admin should be able to define products and update the count in stock whenever they like. 
-![createproduct](https://user-images.githubusercontent.com/107112448/186492684-3eec9a04-5adb-4071-b4c0-32e3e668688c.png)
+![admin_order_dispaly](https://github.com/shishpal2000/snake-game/assets/107112448/cc6e874a-eb39-4794-aa25-f40e466dff1c)
 
 # Checkout Wizard
 I implement the checkout wizard including sign in, shipping info, payment method, and place order.
-![shippingaddress](https://user-images.githubusercontent.com/107112448/186493231-3684b885-232c-41ce-9769-ca13132210f8.png)
+![my_order_screen](https://github.com/shishpal2000/snake-game/assets/107112448/01346bfe-4f97-41a2-a053-29d43fa6cbd6)
 
-![paymentmethod](https://user-images.githubusercontent.com/107112448/186493389-74345ee8-49c8-4758-ba4e-e71224ec508a.png)
+![shipping_adress_page](https://github.com/shishpal2000/snake-game/assets/107112448/134245cc-a43f-4af7-a779-ffaf14898cb1)
 
-![previeworder](https://user-images.githubusercontent.com/107112448/186494220-e09ea6d7-74df-4449-8d3a-8445b2d6c40a.png)
-
-![finalorder](https://user-images.githubusercontent.com/107112448/186494311-778c6f22-2328-4a2c-81a9-c10827a45658.png)
 
 # Admin access features
 Admin can only access dashboard,products,orders and Users.
 
 
-![dashboard](https://user-images.githubusercontent.com/107112448/186496579-372c0ec2-52de-484c-9cb8-863368cc0693.png)
+![add_product_edit_product](https://github.com/shishpal2000/snake-game/assets/107112448/1d4cf500-317e-49f1-8e84-0e06216a6d6a)
 
 
-![dashboard 1](https://user-images.githubusercontent.com/107112448/186496607-8cfccae8-1d99-4b28-9f5c-7dfddf8cd5e7.png)
+![admin_order_dispaly](https://github.com/shishpal2000/snake-game/assets/107112448/7c1ee25a-897d-415a-8604-088ff7041f35)
 
 
-![createproduct](https://user-images.githubusercontent.com/107112448/186496875-ec1242d9-0c42-4c68-93ee-eeb053e4ef0c.png)
-
-
-![userdetail](https://user-images.githubusercontent.com/107112448/186496955-8dd9ba14-6d51-46c7-a104-69fe0c865466.png)
 
 # Thank You !
 
