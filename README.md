@@ -1,4 +1,4 @@
-# maaco-fashion(Ecommerce-project)
+# React-redux_express(Ecommerce-project)
 
 # Project description 
 
